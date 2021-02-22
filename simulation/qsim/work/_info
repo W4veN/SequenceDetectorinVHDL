@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Praca Inzynierska/ostatniaszansa/simulation/qsim
+vblock1
+!s110 1610796461
+!i10b 1
+!s100 X0^[L5cHX=978_CUb<6HK1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaZn^Xh6z?l:4S=SBa4gb^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1610796461
+Z3 8ostatniaszansa.vo
+Z4 Fostatniaszansa.vo
+!i122 0
+L0 32 512
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1610796461.000000
+Z6 !s107 ostatniaszansa.vo|
+Z7 !s90 -work|work|ostatniaszansa.vo|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vblock1_vlg_vec_tst
+!s110 1610796462
+!i10b 1
+!s100 >h<blhMSeDDm`mzj8^7293
+R1
+Idm0CAmP=>CUdmd2MV7ciY1
+R2
+R0
+w1610796459
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 1
+L0 30 90
+R5
+r1
+!s85 0
+31
+!s108 1610796462.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R8
+R9
+vostatniaszansa
+Z10 !s110 1612801723
+!i10b 1
+!s100 WDL>[VXCIC_LJa@ONkCGf0
+R1
+I>[7Q^XlIbkVgzT^<HA1k>3
+R2
+R0
+w1612801722
+R3
+R4
+!i122 14
+L0 32 347
+R5
+r1
+!s85 0
+31
+Z11 !s108 1612801723.000000
+R6
+R7
+!i113 1
+R8
+R9
+vostatniaszansa_vlg_vec_tst
+R10
+!i10b 1
+!s100 <J>Lgi5[=5KI4c_@=_Tl;1
+R1
+I9H0DiHd9I7gULlQUV0Xe>3
+R2
+R0
+w1612801721
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+!i122 15
+L0 30 88
+R5
+r1
+!s85 0
+31
+R11
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R8
+R9
